@@ -172,7 +172,7 @@ const projectsData = [
     image: 'https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80',
     tags: ['Python', 'Gemini', 'Pydantic'],
     demoLink: 'https://github.com/saransh-kaushik/Model-Context-Protocol',
-    sourceLink: '#',
+    sourceLink: 'https://github.com/saransh-kaushik/Model-Context-Protocol',
   },
   {
     title: 'RAG-based Chatbot',
@@ -180,14 +180,14 @@ const projectsData = [
     image: 'https://images.unsplash.com/photo-1516110833967-0b5716ca1387?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80',
     tags: ['NLP', 'Python', 'RAG', 'streamlit'],
     demoLink: 'https://github.com/saransh-kaushik/RAG_for_you',
-    sourceLink: '#',
+    sourceLink: 'https://github.com/saransh-kaushik/RAG_for_you',
   },
   {
     title: 'Speech Recognition and Speech Synthesis in C#',
     description: 'A C# application that uses the Microsoft Speech API to recognize speech and synthesize speech.',
     image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80',
     tags: ['C#', 'Speech Recognition', 'Speech Synthesis'],
-    demoLink: '#',
+    demoLink: 'https://github.com/saransh-kaushik/VoiceRecognition-Iris',
     sourceLink: 'https://github.com/saransh-kaushik/VoiceRecognition-Iris',
   },
   {
@@ -196,7 +196,7 @@ const projectsData = [
     image: 'https://images.unsplash.com/photo-1558346547-4439467bd1d5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80',
     tags: ['CNN', 'Python', 'TensorFlow'],
     demoLink: 'https://github.com/saransh-kaushik/Crop_disease_CNN',
-    sourceLink: '#',
+    sourceLink: 'https://github.com/saransh-kaushik/Crop_disease_CNN',
   },
 ];
 
