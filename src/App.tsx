@@ -96,7 +96,7 @@ const App: React.FC = () => {
         background: 'rgba(17, 24, 39, 0.8)',
         backdropFilter: 'blur(10px)',
       }}>
-        <p>© {new Date().getFullYear()} Your Name - All Rights Reserved</p>
+        <p>© {new Date().getFullYear()} Saransh Kaushik</p>
       </footer>
     </ThemeProvider>
   );
